@@ -1,3 +1,12 @@
 {
-"title": "Base Project"
+  "title": "Base Project",
+  "iniciobtn1": "NEED TO HIRE",
+  "iniciobtn2": "NEED TO WORK",
+  "iniciobtn3": "Privacy Policy ",
+  "iniciobtn4": "Terms of Use.",
+  "iniciobtn5": "Login here.",
+  "inicioText1": "By registering you accept the" ,
+  "inicioText2": "and" ,
+  "inicioText3": "Already have an account?"
+
 }
